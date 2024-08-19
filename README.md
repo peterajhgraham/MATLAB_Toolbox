@@ -12,6 +12,7 @@ MATLAB_Toolbox/
 │   ├── simulation.m
 │   └── Main.m
 │
+├── LICENSE
 ├── .gitignore
 └── README.md
 ```
