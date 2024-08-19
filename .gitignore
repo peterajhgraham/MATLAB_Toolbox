@@ -1,0 +1,10 @@
+# Ignore MATLAB autosave and backup files
+
+# All files that end in .asv (autosave)
+*.asv
+
+# All files that end in ~
+*~
+
+# Mac-specific files
+.DS_Store
